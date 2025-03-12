@@ -38,7 +38,7 @@ This application is provided "as-is," without warranty of any kind, express or i
 We reserve the right to update or modify these Terms of Service at any time. If we make significant changes, we will notify you by updating the version of this document within the application or posting the updated version online.
 
 ### 7. Contact Us
-If you have any questions or concerns regarding these Terms of Service, or if you require further clarification, please contact us at [Insert contact email or other means of communication].
+If you have any questions or concerns regarding these Terms of Service, or if you require further clarification, please contact us at Email: synestero@synestero.com or Discord: Synestero.
 
 **By using Synestero's Cache Clear, you acknowledge that you have read, understood, and agree to these Terms of Service.**
 
