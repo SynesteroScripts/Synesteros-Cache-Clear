@@ -15,7 +15,7 @@ To use **Synestero's Cache Clear**, simply download the application and run the 
 
 ## Terms of Service
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 03/12/2025
 
 By using this application, you agree to the following terms and conditions. If you do not agree with these terms, please do not use the application.
 
