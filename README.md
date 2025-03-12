@@ -50,4 +50,4 @@ If you have any questions or concerns regarding these Terms of Service, or if yo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC License - see the [LICENSE](LICENSE) file for details.
