@@ -20,7 +20,7 @@ To use **Synestero's Cache Clear**, simply download the application and run the 
 By using this application, you agree to the following terms and conditions. If you do not agree with these terms, please do not use the application.
 
 ### 1. Purpose of the Application
-**Synestero's Cache Clear** is a tool designed to help you clear the local cache and other temporary files associated with the **FiveM** or **RedM** application on your computer. This software operates purely for the purpose of enhancing your experience by freeing up space and improving the performance of RedM. 
+**Synestero's Cache Clear** is a tool designed to help you clear the local cache and other temporary files associated with the **FiveM** or **RedM** application on your computer. This software operates purely for the purpose of enhancing your experience by freeing up space and improving the performance of FiveM and RedM. 
 
 ### 2. No Data Collection or Storage
 We want to assure you that **Synestero's Cache Clear** does not collect, store, or share any personal data. The application operates solely on your local machine, and it interacts only with the **RedM and FiveM local data** files on your system. The application does not require internet access to perform its core function, and no data is sent to any external servers or stored anywhere other than your device.
